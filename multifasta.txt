@@ -1,0 +1,4 @@
+>strain1_seq1
+aaaaaattttttcccccggggg
+>strain1_seq2
+gcgtacgtgcatacgt
